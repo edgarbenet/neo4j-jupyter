@@ -1,3 +1,5 @@
 # neo4j-jupyter
 
-A [series of Jupyter notebooks](http://nicolewhite.github.io/neo4j-jupyter/main.html) to help data scientists get started with Python and Neo4j.
+Jupyter Notebook forked from [nicolewhite/neo4j-jupyter](http://nicolewhite.github.io/neo4j-jupyter) 
+
+use of py2neo python driver and neo4jupyther repository to display graphs in the notebooks using vis.js
