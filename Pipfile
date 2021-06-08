@@ -5,9 +5,8 @@ name = "pypi"
 
 [packages]
 py2neo = "*"
-neo4jupyter = {path = "./neo4jupyter"}
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
